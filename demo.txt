@@ -7,3 +7,5 @@ Adding a line ....
 hi
 
 for conflict.... this didnt work lol!!! why?????
+
+pushing this to github..
