@@ -4,6 +4,6 @@ This is git demo file commit.
 
 Adding a line ....
 
-hello
+hi
 
 for conflict.... this didnt work lol!!! why?????
