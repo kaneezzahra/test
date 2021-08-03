@@ -4,6 +4,10 @@ This is git demo file commit.
 
 Adding a line ....
 
+<<<<<<< HEAD
 for conflict....
 
 hope this causes a conflict....
+=======
+for conflict.... this didnt work lol!!! why?????
+>>>>>>> test
